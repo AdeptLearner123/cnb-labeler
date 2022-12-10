@@ -35,7 +35,6 @@ def get_bridge_edges(graph, source, target, degree):
 
     for node in bridge_nodes:
         path_length = source_path_lengths[node] + target_path_lengths[node]
-        print(node, path_length, source_path_lengths[node], target_path_lengths[node])
         bridge_edges[path_length] += source_path_edges[node] + target_path_edges[node]
     
     min_length = min(bridge_edges.keys())

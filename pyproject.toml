@@ -10,11 +10,14 @@ packages = [{include = "cnb_labeler"}]
 python = "^3.10"
 networkx = "^2.8.8"
 matplotlib = "^3.6.2"
+colorama = "^0.4.6"
 
 [tool.poetry.scripts]
 format                          = "tasks:format"
 
 show-paths                      = "tools.show_paths:main"
+
+labeler                         = "cnb_labeler.labeler.labeler:main"
 
 [tool.poetry.group.dev.dependencies]
 black = "^22.10.0"

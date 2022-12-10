@@ -1,0 +1,401 @@
+[
+    {
+        "source_sense": "m_en_gbus0087530.004",
+        "source_word": "Benthamite",
+        "target_sense": "m_en_gbus0774060.017",
+        "target_word": "philosophy",
+        "subgraph": [
+            [
+                "m_en_gbus0087530.004",
+                "m_en_gbus0774060.017",
+                "SEM_LINK",
+                "DOMAIN"
+            ]
+        ],
+        "label": 1
+    },
+    {
+        "source_sense": "Walkabout_(film)",
+        "source_word": "Walkabout",
+        "target_sense": "m_en_gbus0075820.046",
+        "target_word": "base",
+        "subgraph": [
+            [
+                "Walkabout_(film)",
+                "m_en_gbus0075820.046",
+                "TEXT",
+                [
+                    "Walkabout_(film)|1",
+                    "51",
+                    "56"
+                ]
+            ]
+        ],
+        "label": 0
+    },
+    {
+        "source_sense": "m_en_gbus0523120.005",
+        "source_word": "irreversible",
+        "target_sense": "m_en_gbus0260450.005",
+        "target_word": "degenerative",
+        "subgraph": [
+            [
+                "m_en_gbus0260450.005",
+                "m_en_gbus0523120.005",
+                "TEXT",
+                [
+                    "m_en_gbus0260450.005|0",
+                    "62",
+                    "74"
+                ]
+            ]
+        ],
+        "label": 1
+    },
+    {
+        "source_sense": "m_en_gbus0709230.005",
+        "source_word": "obscurity",
+        "target_sense": "Priest_(2011_film)",
+        "target_word": "Priest",
+        "subgraph": [
+            [
+                "Priest_(2011_film)",
+                "m_en_gbus0709230.005",
+                "TEXT",
+                [
+                    "Priest_(2011_film)|3",
+                    "62",
+                    "71"
+                ]
+            ]
+        ],
+        "label": 0
+    },
+    {
+        "source_sense": "m_en_gbus0647220.026",
+        "source_word": "minus",
+        "target_sense": "m_en_gbus0158900.063",
+        "target_word": "catch",
+        "subgraph": [
+            [
+                "m_en_gbus0158900.063",
+                "m_en_gbus0647220.026",
+                "SEM_LINK",
+                "SYNONYM"
+            ],
+            [
+                "m_en_gbus0647220.026",
+                "m_en_gbus0158900.063",
+                "SEM_LINK",
+                "SYNONYM"
+            ]
+        ],
+        "label": 1
+    },
+    {
+        "source_sense": "m_en_gbus0448820.002",
+        "source_word": "hand luggage",
+        "target_sense": "m_en_gbus0153540.005",
+        "target_word": "cargo",
+        "subgraph": [
+            [
+                "m_en_gbus0448820.002",
+                "m_en_gbus0153540.005",
+                "SEM_LINK",
+                "CLASS"
+            ]
+        ],
+        "label": 1
+    },
+    {
+        "source_sense": "Nicholas_Winton",
+        "source_word": "Nicholas Winton",
+        "target_sense": "m_en_gbus1168540.004",
+        "target_word": "World War II",
+        "subgraph": [
+            [
+                "Nicholas_Winton",
+                "m_en_gbus1168540.004",
+                "TEXT",
+                [
+                    "Nicholas_Winton|1",
+                    "199",
+                    "211"
+                ]
+            ]
+        ],
+        "label": 1
+    },
+    {
+        "source_sense": "m_en_gbus0633550.005",
+        "source_word": "merchandising",
+        "target_sense": "Numberblocks",
+        "target_word": "Numberblocks",
+        "subgraph": [
+            [
+                "Numberblocks",
+                "m_en_gbus0633550.005",
+                "TEXT",
+                [
+                    "Numberblocks|2",
+                    "113",
+                    "126"
+                ]
+            ]
+        ],
+        "label": 1
+    },
+    {
+        "source_sense": "Plotinus",
+        "source_word": "Plotinus",
+        "target_sense": "m_en_gbus0989430.006",
+        "target_word": "state",
+        "subgraph": [
+            [
+                "Plotinus",
+                "m_en_gbus0989430.006",
+                "TEXT",
+                [
+                    "Plotinus|6",
+                    "266",
+                    "272"
+                ]
+            ]
+        ],
+        "label": 0
+    },
+    {
+        "source_sense": "Amy_Anderson_(comedian)",
+        "source_word": "Amy Anderson",
+        "target_sense": "m_en_gbus0786060.011",
+        "target_word": "place",
+        "subgraph": [
+            [
+                "Amy_Anderson_(comedian)",
+                "m_en_gbus0786060.011",
+                "TEXT",
+                [
+                    "Amy_Anderson_(comedian)|3",
+                    "121",
+                    "127"
+                ]
+            ]
+        ],
+        "label": 0
+    },
+    {
+        "source_sense": "Ellen_McLain",
+        "source_word": "Ellen McLain",
+        "target_sense": "GLaDOS",
+        "target_word": "GLaDOS",
+        "subgraph": [
+            [
+                "Ellen_McLain",
+                "GLaDOS",
+                "TEXT",
+                [
+                    "Ellen_McLain|1",
+                    "45",
+                    "51"
+                ]
+            ],
+            [
+                "GLaDOS",
+                "Ellen_McLain",
+                "TEXT",
+                [
+                    "GLaDOS|2",
+                    "69",
+                    "81"
+                ]
+            ]
+        ],
+        "label": 1
+    },
+    {
+        "source_sense": "m_en_gbus0103540.017",
+        "source_word": "blind",
+        "target_sense": "m_en_gbus1160650.007",
+        "target_word": "window",
+        "subgraph": [
+            [
+                "m_en_gbus0103540.017",
+                "m_en_gbus1160650.007",
+                "TEXT",
+                [
+                    "m_en_gbus0103540.017|0",
+                    "14",
+                    "20"
+                ]
+            ]
+        ],
+        "label": 1
+    },
+    {
+        "source_sense": "m_en_gbus0064570.007",
+        "source_word": "backcross",
+        "target_sense": "m_en_gbus0866700.023",
+        "target_word": "result",
+        "subgraph": [
+            [
+                "m_en_gbus0064570.007",
+                "m_en_gbus0866700.023",
+                "TEXT",
+                [
+                    "m_en_gbus0064570.007|0",
+                    "15",
+                    "21"
+                ]
+            ]
+        ],
+        "label": 0
+    },
+    {
+        "source_sense": "Robert_Kraft",
+        "source_word": "Robert Kraft",
+        "target_sense": "m_en_gbus0739770.005",
+        "target_word": "packaging",
+        "subgraph": [
+            [
+                "Robert_Kraft",
+                "m_en_gbus0739770.005",
+                "TEXT",
+                [
+                    "Robert_Kraft|1",
+                    "128",
+                    "137"
+                ]
+            ]
+        ],
+        "label": 1
+    },
+    {
+        "source_sense": "m_en_gbus0506540.002",
+        "source_word": "inertia selling",
+        "target_sense": "m_en_gbus0923910.006",
+        "target_word": "sending",
+        "subgraph": [
+            [
+                "m_en_gbus0506540.002",
+                "m_en_gbus0923910.006",
+                "TEXT",
+                [
+                    "m_en_gbus0506540.002|0",
+                    "4",
+                    "11"
+                ]
+            ]
+        ],
+        "label": 1
+    },
+    {
+        "source_sense": "m_en_gbus1098410.007",
+        "source_word": "unearned",
+        "target_sense": "m_en_gbus0784990.012",
+        "target_word": "pitcher",
+        "subgraph": [
+            [
+                "m_en_gbus1098410.007",
+                "m_en_gbus0784990.012",
+                "TEXT",
+                [
+                    "m_en_gbus1098410.007|0",
+                    "108",
+                    "115"
+                ]
+            ]
+        ],
+        "label": 1
+    },
+    {
+        "source_sense": "m_en_gbus0089290.012",
+        "source_word": "besiege",
+        "target_sense": "m_en_gbus0863910.005",
+        "target_word": "request",
+        "subgraph": [
+            [
+                "m_en_gbus0089290.012",
+                "m_en_gbus0863910.005",
+                "TEXT",
+                [
+                    "m_en_gbus0089290.012|0",
+                    "32",
+                    "40"
+                ]
+            ]
+        ],
+        "label": 1
+    },
+    {
+        "source_sense": "Aristotelianism",
+        "source_word": "Aristotelianism",
+        "target_sense": "m_en_gbus0208110.012",
+        "target_word": "concern",
+        "subgraph": [
+            [
+                "Aristotelianism",
+                "m_en_gbus0208110.012",
+                "TEXT",
+                [
+                    "Aristotelianism|5",
+                    "110",
+                    "119"
+                ]
+            ]
+        ],
+        "label": 0
+    },
+    {
+        "source_sense": "m_en_gbus1064200.011",
+        "source_word": "totter",
+        "target_sense": "m_en_gbus0601430.005",
+        "target_word": "lurch",
+        "subgraph": [
+            [
+                "m_en_gbus1064200.011",
+                "m_en_gbus0601430.005",
+                "SEM_LINK",
+                "SYNONYM"
+            ]
+        ],
+        "label": 1
+    },
+    {
+        "source_sense": "m_en_gbus0956120.003",
+        "source_word": "sloe-black",
+        "target_sense": "m_en_gbus0107510.009",
+        "target_word": "bluish",
+        "subgraph": [
+            [
+                "m_en_gbus0956120.003",
+                "m_en_gbus0107510.009",
+                "TEXT",
+                [
+                    "m_en_gbus0956120.003|0",
+                    "0",
+                    "6"
+                ]
+            ]
+        ],
+        "label": 1
+    },
+    {
+        "source_sense": "m_en_gbus0472540.006",
+        "source_word": "hogget",
+        "target_sense": "m_en_gbus0562210.005",
+        "target_word": "lamb",
+        "subgraph": [
+            [
+                "m_en_gbus0472540.006",
+                "m_en_gbus0562210.005",
+                "TEXT",
+                [
+                    "m_en_gbus0472540.006|0",
+                    "2",
+                    "6"
+                ]
+            ]
+        ],
+        "label": 1
+    }
+]

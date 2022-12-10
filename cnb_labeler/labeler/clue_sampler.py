@@ -16,8 +16,8 @@ def sample_sense_pair(graph, degree):
     current = source
     out_only = False
     for _ in range(degree):
-        predecessors = graph.predecessors(current)
-        successors = graph.successors(current)
+        predecessors = list(graph.predecessors(current))
+        successors = list(graph.successors(current))
 
         if out_only:
             neighbors = predecessors
