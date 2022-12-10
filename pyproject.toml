@@ -17,6 +17,7 @@ format                          = "tasks:format"
 
 show-paths                      = "tools.show_paths:main"
 
+temp                            = "cnb_labeler.temp:main"
 labeler                         = "cnb_labeler.labeler.labeler:main"
 
 [tool.poetry.group.dev.dependencies]

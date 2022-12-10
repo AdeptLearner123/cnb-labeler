@@ -12,7 +12,9 @@
                 "DOMAIN"
             ]
         ],
-        "label": 1
+        "label": 1,
+        "source_def": "relating to or consistent with utilitarianism proposed by Bentham",
+        "target_def": "study of nature of knowledge and reality"
     },
     {
         "source_sense": "Walkabout_(film)",
@@ -26,12 +28,15 @@
                 "TEXT",
                 [
                     "Walkabout_(film)|1",
-                    "51",
-                    "56"
+                    "Edward Bond wrote the screenplay, which is loosely based on the 1959 novel Walkabout by James Vance Marshall.",
+                    51,
+                    56
                 ]
             ]
         ],
-        "label": 0
+        "label": 0,
+        "source_def": "a 1971 adventure survival film directed by Nicolas Roeg and starring Jenny Agutter, Luc Roeg, and David Gulpilil.",
+        "target_def": "use starting point for"
     },
     {
         "source_sense": "m_en_gbus0523120.005",
@@ -45,12 +50,15 @@
                 "TEXT",
                 [
                     "m_en_gbus0260450.005|0",
-                    "62",
-                    "74"
+                    "(of a disease or symptom) characterized by progressive, often irreversible deterioration, and loss of function in the organs or tissues",
+                    62,
+                    74
                 ]
             ]
         ],
-        "label": 1
+        "label": 1,
+        "source_def": "not able to be undone or altered",
+        "target_def": "(of disease) characterized by progressive deterioration and loss of function in organs or tissues"
     },
     {
         "source_sense": "m_en_gbus0709230.005",
@@ -64,12 +72,15 @@
                 "TEXT",
                 [
                     "Priest_(2011_film)|3",
-                    "62",
-                    "71"
+                    "After the last Vampire War, a veteran Warrior Priest lives in obscurity until his niece is kidnapped by vampires.",
+                    62,
+                    71
                 ]
             ]
         ],
-        "label": 0
+        "label": 0,
+        "source_def": "state of being unknown or unimportant",
+        "target_def": "a 2011 American action horror film directed by Scott Stewart and stars Paul Bettany as the title character."
     },
     {
         "source_sense": "m_en_gbus0647220.026",
@@ -90,7 +101,9 @@
                 "SYNONYM"
             ]
         ],
-        "label": 1
+        "label": 1,
+        "source_def": "disadvantage",
+        "target_def": "hidden problem"
     },
     {
         "source_sense": "m_en_gbus0448820.002",
@@ -105,7 +118,9 @@
                 "CLASS"
             ]
         ],
-        "label": 1
+        "label": 1,
+        "source_def": "suitcases and bags of size suitable for carrying on to aircraft",
+        "target_def": "goods carried on ship, aircraft, or motor vehicle"
     },
     {
         "source_sense": "Nicholas_Winton",
@@ -119,12 +134,15 @@
                 "TEXT",
                 [
                     "Nicholas_Winton|1",
-                    "199",
-                    "211"
+                    "Born to German-Jewish parents who had emigrated to Britain at the beginning of the 20th century, Winton assisted in the rescue of 669 children, most of them Jewish, from Czechoslovakia on the eve of World War II.",
+                    199,
+                    211
                 ]
             ]
         ],
-        "label": 1
+        "label": 1,
+        "source_def": "a British humanitarian who helped to rescue children who were at risk of oppression by Nazi Germany.",
+        "target_def": "a war (1939–45) in which the Axis Powers (Germany, Italy, and Japan) were defeated by an alliance eventually including the UK and its dominions, the former Soviet Union, and the US."
     },
     {
         "source_sense": "m_en_gbus0633550.005",
@@ -138,12 +156,15 @@
                 "TEXT",
                 [
                     "Numberblocks|2",
-                    "113",
-                    "126"
+                    "It was commissioned by the British Broadcasting Corporation, with Larkshead Media and Learning Resources holding merchandising rights.",
+                    113,
+                    126
                 ]
             ]
         ],
-        "label": 1
+        "label": 1,
+        "source_def": "activity of promoting sale of goods",
+        "target_def": "a British animated television programme for preschoolers that debuted on CBeebies on 23 January 2017."
     },
     {
         "source_sense": "Plotinus",
@@ -157,12 +178,15 @@
                 "TEXT",
                 [
                     "Plotinus|6",
-                    "266",
-                    "272"
+                    "His works have inspired centuries of Pagan, Jewish, Christian, Gnostic, and Islamic metaphysicians and mystics, including developing precepts that influence mainstream theological concepts within religions, such as his work on duality of the One in two metaphysical states.",
+                    266,
+                    272
                 ]
             ]
         ],
-        "label": 0
+        "label": 0,
+        "source_def": "a philosopher in the Hellenistic tradition, born and raised in Roman Egypt.",
+        "target_def": "particular condition that person or thing is in at specific time"
     },
     {
         "source_sense": "Amy_Anderson_(comedian)",
@@ -176,12 +200,15 @@
                 "TEXT",
                 [
                     "Amy_Anderson_(comedian)|3",
-                    "121",
-                    "127"
+                    "Eventually she chose to move into comedy and acting, and performed in the Fresh Ink series at Illusion Theater and other places.",
+                    121,
+                    127
                 ]
             ]
         ],
-        "label": 0
+        "label": 0,
+        "source_def": "an American comedian, actor, and writer. \n",
+        "target_def": "building etc. used for specified purpose"
     },
     {
         "source_sense": "Ellen_McLain",
@@ -195,8 +222,9 @@
                 "TEXT",
                 [
                     "Ellen_McLain|1",
-                    "45",
-                    "51"
+                    "She is best known for providing the voice of GLaDOS, the primary antagonist of the Portal video game series, the Combine Overwatch in Half-Life 2, and the Administrator, the announcer in Team Fortress 2.",
+                    45,
+                    51
                 ]
             ],
             [
@@ -205,12 +233,15 @@
                 "TEXT",
                 [
                     "GLaDOS|2",
-                    "69",
-                    "81"
+                    "The character was created by Erik Wolpaw and Kim Swift and voiced by Ellen McLain.",
+                    69,
+                    81
                 ]
             ]
         ],
-        "label": 1
+        "label": 1,
+        "source_def": "an American voice actress.",
+        "target_def": "a fictional artificially superintelligent computer system from the video game series Portal."
     },
     {
         "source_sense": "m_en_gbus0103540.017",
@@ -224,12 +255,15 @@
                 "TEXT",
                 [
                     "m_en_gbus0103540.017|0",
-                    "14",
-                    "20"
+                    "(of a door or window) walled up",
+                    14,
+                    20
                 ]
             ]
         ],
-        "label": 1
+        "label": 1,
+        "source_def": "walled up",
+        "target_def": "opening in wall or roof of building or vehicle"
     },
     {
         "source_sense": "m_en_gbus0064570.007",
@@ -243,12 +277,15 @@
                 "TEXT",
                 [
                     "m_en_gbus0064570.007|0",
-                    "15",
-                    "21"
+                    "an instance or result of backcrossing.",
+                    15,
+                    21
                 ]
             ]
         ],
-        "label": 0
+        "label": 0,
+        "source_def": "instance or result of backcrossing",
+        "target_def": "occur or follow as consequence of something"
     },
     {
         "source_sense": "Robert_Kraft",
@@ -262,12 +299,15 @@
                 "TEXT",
                 [
                     "Robert_Kraft|1",
-                    "128",
-                    "137"
+                    "He is the chairman and chief executive officer (CEO) of the Kraft Group, a diversified holding company with assets in paper and packaging, sports and entertainment, real estate development, and a private equity portfolio.",
+                    128,
+                    137
                 ]
             ]
         ],
-        "label": 1
+        "label": 1,
+        "source_def": "an American billionaire businessman.",
+        "target_def": "materials used to wrap or protect goods"
     },
     {
         "source_sense": "m_en_gbus0506540.002",
@@ -281,12 +321,15 @@
                 "TEXT",
                 [
                     "m_en_gbus0506540.002|0",
-                    "4",
-                    "11"
+                    "the sending of unsolicited goods to potential customers in the hope of making a sale.",
+                    4,
+                    11
                 ]
             ]
         ],
-        "label": 1
+        "label": 1,
+        "source_def": "sending of unsolicited goods to potential customers in hope",
+        "target_def": "unpleasant or evil thing or creature supposedly sent by someone with paranormal or magical powers to warn"
     },
     {
         "source_sense": "m_en_gbus1098410.007",
@@ -300,12 +343,15 @@
                 "TEXT",
                 [
                     "m_en_gbus1098410.007|0",
-                    "108",
-                    "115"
+                    "(of a run) scored as the result of or following an error made by the fielding side, and not recorded in the pitcher's earned run average.",
+                    108,
+                    115
                 ]
             ]
         ],
-        "label": 1
+        "label": 1,
+        "source_def": "(of run) resulting from error by fielding side",
+        "target_def": "player who delivers ball to batter"
     },
     {
         "source_sense": "m_en_gbus0089290.012",
@@ -319,12 +365,15 @@
                 "TEXT",
                 [
                     "m_en_gbus0089290.012|0",
-                    "32",
-                    "40"
+                    "inundate with a large number of requests or complaints",
+                    32,
+                    40
                 ]
             ]
         ],
-        "label": 1
+        "label": 1,
+        "source_def": "inundate with large number of requests or complaints",
+        "target_def": "act of asking politely or formally for something"
     },
     {
         "source_sense": "Aristotelianism",
@@ -338,12 +387,15 @@
                 "TEXT",
                 [
                     "Aristotelianism|5",
-                    "110",
-                    "119"
+                    "This means that different Aristotelian theories may not have much in common as far as their actual content is concerned besides their shared reference to Aristotle.",
+                    110,
+                    119
                 ]
             ]
         ],
-        "label": 0
+        "label": 0,
+        "source_def": "a philosophical tradition inspired by the work of Aristotle, usually characterized by deductive logic and an analytic inductive method in the study of natural philosophy and metaphysics.",
+        "target_def": "affect or involve"
     },
     {
         "source_sense": "m_en_gbus1064200.011",
@@ -358,7 +410,9 @@
                 "SYNONYM"
             ]
         ],
-        "label": 1
+        "label": 1,
+        "source_def": "shake as if about to collapse",
+        "target_def": "make abrupt, unsteady, uncontrolled movement or series of movements"
     },
     {
         "source_sense": "m_en_gbus0956120.003",
@@ -372,12 +426,15 @@
                 "TEXT",
                 [
                     "m_en_gbus0956120.003|0",
-                    "0",
-                    "6"
+                    "bluish-black.",
+                    0,
+                    6
                 ]
             ]
         ],
-        "label": 1
+        "label": 1,
+        "source_def": "bluish-black",
+        "target_def": "having blue tinge"
     },
     {
         "source_sense": "m_en_gbus0472540.006",
@@ -391,11 +448,14 @@
                 "TEXT",
                 [
                     "m_en_gbus0472540.006|0",
-                    "2",
-                    "6"
+                    "a lamb between weaning and first shearing.",
+                    2,
+                    6
                 ]
             ]
         ],
-        "label": 1
+        "label": 1,
+        "source_def": "lamb between weaning and first shearing",
+        "target_def": "young sheep"
     }
 ]
